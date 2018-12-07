@@ -3,6 +3,8 @@
 ## Description
 
 This project shows ways to use hyperlinks in Aras. The current sample works with ItemType **Manufacturer**
+![aras-hyperlinks](./Screenshots/Hyperlink.png)
+
 
 ## Project Details
 
